@@ -1,5 +1,5 @@
 * Name: UNC Haubourdin
-* URL: 
+* URL: https://unclocalhaubourdin.github.io/UNC/
 * Edited by : Manuel MAREZ
  
 * Version: 1.0.0
