@@ -3,4 +3,4 @@
 * Edited by : Manuel MAREZ
 * Version: 1.0.0
   - Initial Release
-* MAJ Modification HTML + CSS le 16/03/2023.
+* MAJ le 16/03/2023.
